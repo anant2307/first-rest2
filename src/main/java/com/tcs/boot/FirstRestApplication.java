@@ -10,6 +10,7 @@ public class FirstRestApplication {
 		SpringApplication.run(FirstRestApplication.class, args);
 		System.out.println("Running......................................");
 		System.out.println("My name is anant shukla");
+		System.out.println("2nd");
 	}
 
 }
